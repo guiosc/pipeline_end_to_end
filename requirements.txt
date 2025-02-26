@@ -1,0 +1,9 @@
+apache-airflow==2.6.3
+apache-airflow-providers-amazon
+apache-airflow-providers-http
+pandas
+requests
+pyarrow
+boto3
+pyspark
+delta-spark
